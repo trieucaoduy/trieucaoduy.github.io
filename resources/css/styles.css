@@ -668,7 +668,7 @@ footer i {
     }
     .main-nav {
         position: absolute;
-        overflow: hidden;
+        display: none;
         width: 100%;
         right: 0;
         top: 50px;
@@ -695,7 +695,7 @@ footer i {
         transform: translate(-50%);
     }
     .nav-toggler {
-        overflow: visible;
+        display: block;
     }
     .about .info {
         display: block;
@@ -774,7 +774,7 @@ footer i {
     }
     .main-nav {
         position: absolute;
-        overflow: hidden;
+        display: none;
         width: 100%;
         right: 0;
         top: 50px;
@@ -801,7 +801,7 @@ footer i {
         transform: translate(-50%);
     }
     .nav-toggler {
-        overflow: visible;
+        display: block;
     }
     .nav-brand {
         float: left;
